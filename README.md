@@ -1,6 +1,7 @@
 # study_python
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![GitHub Actions](https://github.com/q23isline/study_python/actions/workflows/ci.yml/badge.svg)](https://github.com/q23isline/study_python/actions/workflows/ci.yml)
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=555555&color=007acc&logoColor=007acc)](https://github.dev/q23isline/study_python)
 
 [![Python](https://img.shields.io/static/v1?logo=python&label=Python&message=v3&labelColor=555555&color=#3776AB&logoColor=#3776AB)](https://www.python.org/)
