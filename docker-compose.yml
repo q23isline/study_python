@@ -1,0 +1,11 @@
+services:
+  backend:
+    image: python:3
+    container_name: backend
+    working_dir: /usr/src
+    volumes:
+      - ./:/usr/src
+    stdin_open: true
+    tty: true
+    environment:
+      - PYTHONPATH=/usr/src
