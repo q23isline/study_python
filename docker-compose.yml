@@ -1,6 +1,8 @@
 services:
   backend:
-    image: python:3
+    build:
+      context: .
+      dockerfile: ./docker/local/python/Dockerfile
     container_name: backend
     working_dir: /usr/src
     volumes:
