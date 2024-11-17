@@ -33,6 +33,7 @@ Python 勉強用リポジトリ
 3. アプリ立ち上げ
 
     ```bash
+    docker compose build
     docker compose up -d
     ```
 
